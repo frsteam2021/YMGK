@@ -22,7 +22,7 @@ https://sourceforge.net/projects/opencvlibrary/files/4.5.1/
 # Alfa Sürüm Nasıl Kullanılır
 
 1- Proje dosyası çalıştırılır.
----
+
 2- VeriTabaniKayit.py adlı dosya açılır ve çalıştırılır. Çalışmaya başladığında veri tabanına kayıt edilecek yüzün kişisel bilgileri istenecektir.
    Veri tabanına kayıt edilirken çalışan yada ziyaretci olduğunuzu belirten soruyu doğru cevaplamalısınız.
    Sistem mavi çerçeve içerisinde yüzünüzü algılar ve 100 adet verinizi sisteme kayıt eder.
