@@ -1,0 +1,1 @@
+Bu klsörde eğitim modeli yer alacaktır.
